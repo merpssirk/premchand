@@ -1,0 +1,68 @@
+* HOME
+home__social
+https://www.linkedin.com/in/prem-bahadur-chand/
+https://www.xing.com/profile/PremBahadur_Chand3
+https://github.com/merpssirk
+
+home__description
+The website takes a long time to build. There are a lot of things that have to happen before it can go live. Good things take time to create and any good designer or developer is going to take their time so they deliver you something that both them and you can be proud of.
+
+I enjoy taking complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code. Whether it be HTML, CSS, SASS, Bootstrap, React, JS or WordPress.
+
+
+* ABOUT
+about__description
+I am a Full-Stack Web Developer with 7+ years of experience in Graphic Design & Digital Publishing who graduated from Intensive training in Full-Stack Web Development (MERN stack) in 2021. I have a extensive knowledge and years of experience, working in web technologies such as React js, WordPress, microsoft business power apps and Ui / Ux design etc and delivering a quality work. I am currently (since Feb 2021) working as a Frontend Web Developer and Microsoft Power Apps Developer with STERLINK GmbH which is located in Hamburg, Germany.
+
+about__info-name
+Years <br> experience
+Completed <br> project
+Companies <br> worked
+
+
+* SERVICES
+services__modal-service
+
+I develop the user interface designs.
+Plan and implement new designs.
+Create prototypes for new product ideas.
+Test new ideas before implementing.
+
+
+
+
+
+* PORTFOLIO
+portfolio__description
+
+This website adaptable to all devices, with ui components and animated interactions. I have used WordPress CMS to build this website in client side and MySQL for Server side and PhPMyAdmin for Database.
+
+This workout planner is a full stack application and was conceived as a group project. The idea was to build a website which allows you to create your own workouts and lets you track your progress. We have used React js in client side to build this website and we have used Node js and Express for server and MongoDB for Database.
+
+This portfolio website is adaptable to all devices, with ui components and animated interactions. I have used HTML, CSS and Swiper API for JavaScript Code. This is fully responsive portfilio website.
+
+* PROJECT
+project__description
+
+Contact me now and get a maximum discount on your new project.
+
+
+* TESTIMONIAL
+testimonial__description
+
+Lokendra
+He has good knowledge of design for web, user experience design and responsive design principles.
+
+Suman
+Prem has been and still is the great anomaly of the web development world in his reliability and responsiveness.
+
+Solomon
+His role in the development and implementation of object-oriented website moved us to the next level.
+
+
+* FOOTER
+footer__social
+https://www.linkedin.com/in/prem-bahadur-chand/
+https://www.xing.com/profile/PremBahadur_Chand3
+https://github.com/merpssirk
+
