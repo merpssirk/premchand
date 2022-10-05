@@ -1,0 +1,2 @@
+# premchand
+This website is a my portfolio website and it is build using HTML, CSS and JavaScript. It has ability to change light theme and dark theme. In addition i have used Swiper in this project. Swiper is a JavaScript library that creates modern touch sliders with hardware-accelerated transitions and create smoother visuals and excellent native behavior. Swiper is available for vanilla JavaScript, React etc.    
